@@ -1,0 +1,11 @@
+tensorflow>=2.12
+torch
+diffusers
+transformers
+accelerate
+opencv-python
+numpy
+pandas
+scikit-learn
+matplotlib
+Pillow
