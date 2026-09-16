@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Human Facial Expression Classification Using CNN-Based Deep Learning Models
 
 Classifying human facial emotions (anger, disgust, fear, happy, pain, sad) using a custom CNN and transfer learning (MobileNetV2), with diffusion-generated synthetic images used to probe the effect of augmented data on model performance.
@@ -96,3 +97,7 @@ Code in this repository is licensed under the [MIT License](LICENSE). The datase
 
 If you use this work, please cite the original dataset:
 > 6 Human Emotions for Image Classification, Kaggle. https://www.kaggle.com/datasets/yousefmohamed20/sentiment-images-classifier/data
+=======
+# facial-emotion-cnn
+Facial emotion recognition with CNN vs. MobileNetV2 transfer learning, evaluated with diffusion-generated synthetic images.
+>>>>>>> e1cc796ac6e939968129ecb42bd511f47f03065e
