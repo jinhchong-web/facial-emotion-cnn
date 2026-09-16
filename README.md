@@ -68,28 +68,28 @@ A Stable Diffusion pipeline (via `diffusers`/PyTorch) is used to generate additi
 
 <div align="center">
   <img src="Result_SS/TLP.png" alt="App Screenshot" width="700">
-  <p><em>Example: Interface allow user change the retrieval dataset (3a - English gloss embedded only, 3b - English gloss + POS [Part of Speech] embedding), Shona word segmentation method, and number of result.</em></p>
+  <p><em>Example: Transfer learning compare with dataset.</em></p>
 </div>
 
 <br>
 
 <div align="center">
   <img src="Result_SS/CCNNP.png" alt="App Screenshot" width="700">
-  <p><em>Example: Interface allow user change the retrieval dataset (3a - English gloss embedded only, 3b - English gloss + POS [Part of Speech] embedding), Shona word segmentation method, and number of result.</em></p>
+  <p><em>Example: Custom CNN compare with dataset.</em></p>
 </div>
 
 <br>
 
 <div align="center">
   <img src="Result_SS/TLP_GAN.png" alt="App Screenshot" width="700">
-  <p><em>Example: Interface allow user change the retrieval dataset (3a - English gloss embedded only, 3b - English gloss + POS [Part of Speech] embedding), Shona word segmentation method, and number of result.</em></p>
+  <p><em>Example: Transfer learning compare with GAN generated image.</em></p>
 </div>
 
 <br>
 
 <div align="center">
   <img src="Result_SS/CCNNP_GAN.png" alt="App Screenshot" width="700">
-  <p><em>Example: Interface allow user change the retrieval dataset (3a - English gloss embedded only, 3b - English gloss + POS [Part of Speech] embedding), Shona word segmentation method, and number of result.</em></p>
+  <p><em>Example: Custom CNN compare with GAN generated image.</em></p>
 </div>
 
 <br>
