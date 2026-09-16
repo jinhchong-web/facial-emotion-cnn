@@ -1,0 +1,28 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Environments
+.venv/
+venv/
+env/
+
+# Model checkpoints / weights (often large)
+*.h5
+*.keras
+*.pt
+*.pth
+*.safetensors
+
+# Hugging Face / diffusers model cache
+.cache/
+huggingface/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
