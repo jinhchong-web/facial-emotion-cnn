@@ -64,6 +64,36 @@ A Stable Diffusion pipeline (via `diffusers`/PyTorch) is used to generate additi
 - MobileNetV2 (transfer learning) showed better and more stable learning behaviour than the custom CNN on both accuracy and loss.
 - Prediction spot-checks showed comparable performance between the two approaches on the sampled test cases (5/9 correct each).
 
+<br>
+
+<div align="center">
+  <img src="Result_SS/TLP.png" alt="App Screenshot" width="700">
+  <p><em>Example: Interface allow user change the retrieval dataset (3a - English gloss embedded only, 3b - English gloss + POS [Part of Speech] embedding), Shona word segmentation method, and number of result.</em></p>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="Result_SS/CCNNP.png" alt="App Screenshot" width="700">
+  <p><em>Example: Interface allow user change the retrieval dataset (3a - English gloss embedded only, 3b - English gloss + POS [Part of Speech] embedding), Shona word segmentation method, and number of result.</em></p>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="Result_SS/TLP_GAN.png" alt="App Screenshot" width="700">
+  <p><em>Example: Interface allow user change the retrieval dataset (3a - English gloss embedded only, 3b - English gloss + POS [Part of Speech] embedding), Shona word segmentation method, and number of result.</em></p>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="Result_SS/CCNNP_GAN.png" alt="App Screenshot" width="700">
+  <p><em>Example: Interface allow user change the retrieval dataset (3a - English gloss embedded only, 3b - English gloss + POS [Part of Speech] embedding), Shona word segmentation method, and number of result.</em></p>
+</div>
+
+<br>
+
 ## Limitations
 
 - Small, class-imbalanced dataset (1,146 images across 6 classes)
